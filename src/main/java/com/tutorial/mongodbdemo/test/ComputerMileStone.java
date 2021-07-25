@@ -17,4 +17,8 @@ public class ComputerMileStone implements MileStone {
         return "ComputerMileStone [work()=" + work() + ", target()=" + target()
         + "]";
     }
+
+	@Override
+	public void rest() {
+	}
 }

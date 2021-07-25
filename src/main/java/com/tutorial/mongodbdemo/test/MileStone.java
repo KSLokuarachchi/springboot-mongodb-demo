@@ -6,4 +6,5 @@ public interface MileStone {
 
 	public String target();
 
+	public void rest();
 }

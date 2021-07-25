@@ -19,4 +19,10 @@ public class CivilMileStone implements MileStone {
         return "CivilMileStone [work()=" + work() + ", target()=" + target()
         + "]";
     }
+
+	@Override
+	public void rest() {
+	}
+    
+    
 }
