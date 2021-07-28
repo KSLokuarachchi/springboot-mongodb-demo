@@ -19,8 +19,25 @@ public class ComputerEngineer implements Engineer{
 	}
 
 	@Override
+	public void setPersonalDetails() {
+	}
+
+	@Override
 	public String getType() {
-		// TODO Auto-generated method stub
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
 		return type;
 	}
 
@@ -40,4 +57,5 @@ public class ComputerEngineer implements Engineer{
 	public String toString() {
 		return "ComputerEngineer [type=" + type + ", salary=" + salary + ", mileStone=" + mileStone + "]";
 	}
+
 }

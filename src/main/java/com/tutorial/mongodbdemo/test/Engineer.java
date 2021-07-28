@@ -14,4 +14,5 @@ public interface Engineer {
 
 	void setMileStone(MileStone mileStone);
 
+	void setPersonalDetails();
 }

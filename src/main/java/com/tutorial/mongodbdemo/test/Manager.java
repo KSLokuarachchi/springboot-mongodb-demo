@@ -9,7 +9,21 @@ public class Manager {
 		comp.setSalary(50000);
 		comp.setMileStone(new ComputerMileStone());
 
-		
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+		System.out.println("test line");
+
 		System.out.println(comp);
 		System.out.println("********************");
 	}

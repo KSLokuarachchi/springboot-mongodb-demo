@@ -19,6 +19,10 @@ public class CivilEngineer implements Engineer {
 	}
 
 	@Override
+	public void setPersonalDetails() {
+	}
+
+	@Override
 	public String getType() {
 		// TODO Auto-generated method stub
 		return type;
